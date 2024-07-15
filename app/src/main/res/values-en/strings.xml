@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Explore Taipei</string>
+    <string name="attractions_title"> Taipei Attractions %s/%s</string>
+    <string name="app_title">Explore Taipei</string>
+    <string name="selected_language">Select Language</string>
+    <string name="loading_please_wait">Loading...</string>
+    <string name="open_time">Opening hours: %s</string>
+    <string name="address">Address: %s</string>
+    <string name="mobile">Contact Number: %s</string>
+    <string name="web_address">Website: %s</string>
+    <string name="server_error">Language selection server error, please try again later.</string>
+    <string name="can_not_load_page">Unable to load the page, please try again later</string>
+    <string name="attraction">Attraction</string>
+    <string name="attraction_introduction">Attraction Introduction</string>
+    <array name="tab_main">
+        <item>Taipei</item>
+        <item>Nearby</item>
+        <item>Travel News</item>
+    </array>
+    <string name="permission_rationale_location">This sample requires location permission to enable the \'my location\' layer. Please try again and grant access to use the location.\nIf the permission has been permanently denied, it can be enabled from the System Settings &gt; Apps &gt; \'Google Maps API Demos\'.</string>
+    <string name="location_permission_denied">This sample requires location permission to enable the \'my location\' layer. Please try again and grant access to use the location.\nIf the permission has been permanently denied, it can be enabled from the System Settings &gt; Apps &gt; \'Google Maps API Demos\'.</string>
+    <string name="permission_required_toast">Location permission not granted, some features will be restricted.</string>
+    <string name="guild_there">Navigate to me: %s</string>
+</resources>

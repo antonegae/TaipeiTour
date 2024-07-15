@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">悠游台北</string>
+    <string name="attractions_title"> 台北景点 %s/%s</string>
+    <string name="app_title">悠游台北</string>
+    <string name="selected_language">选择语言</string>
+    <string name="loading_please_wait">加载中...</string>
+    <string name="open_time">营业时间: %s</string>
+    <string name="address">地址: %s</string>
+    <string name="mobile">联系电话: %s</string>
+    <string name="web_address">网址: %s</string>
+    <string name="server_error">选择语言服务器异常，请稍后再试。</string>
+    <string name="can_not_load_page">无法载入网页，请之后再尝试</string>
+    <string name="attraction">景点</string>
+    <string name="attraction_introduction">景点介绍</string>
+    <array name="tab_main">
+        <item>台北</item>
+        <item>附近</item>
+        <item>旅游新闻</item>
+    </array>
+    <string name="permission_rationale_location">需要您的权限才能定位您的位置，没有取得权限部分功能将受到限制。</string>
+    <string name="location_permission_denied">此示例需要位置权限以启用「我的位置」图层。请重试并授予访问位置的权限。\n如果权限已永久拒绝，可以从系统设置 > 应用程序 >「Google Maps API示例」中启用。</string>
+    <string name="permission_required_toast">未提供位置权限，部分功能将受到限制。</string>
+    <string name="guild_there">导航点我：%s</string>
+
+</resources>
